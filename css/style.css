@@ -1,8 +1,11 @@
 body {
     font-family: sans-serif;
 }
-
+h2 {
+    text-decoration: underline;
+}
 
 h5 {
     font-style: italic;
+    color: darkblue;
 }
